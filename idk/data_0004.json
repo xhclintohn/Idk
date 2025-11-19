@@ -1,0 +1,10 @@
+{
+  "file_id": 4,
+  "timestamp": "2025-11-19T17:22:35.026Z",
+  "data": {
+    "random_number": 134,
+    "message": "This is JSON file number 4",
+    "created_by": "automated_script",
+    "batch": 1
+  }
+}
